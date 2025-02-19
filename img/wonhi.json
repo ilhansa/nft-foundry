@@ -1,0 +1,11 @@
+{
+    "name": "WONHI",
+    "description": "ILLIT Wonhee",
+    "image": "ipfs://QmRdnJ5cmbmWYh1ZXJFefJCnChjYDN1pQ8GVpYVnivXy9S",
+    "atributes":[
+        {
+            "trait_type": "Cuteness",
+            "value": 100
+        }
+    ]
+}
